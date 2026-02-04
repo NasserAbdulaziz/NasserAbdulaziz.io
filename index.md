@@ -13,7 +13,7 @@ title: Nasser Alwulayi | Cybersecurity Researcher
 ### About Me
 I am a cybersecurity specialist and final-year student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
 
-My work bridges the gap between theoretical security models and practical infrastructure hardening. I focus on **applied research**—building defense tools, analyzing network traffic, and documenting vulnerability patterns.
+My work bridges the gap between theoretical security models and practical infrastructure hardening. I focus on **applied research**, building defense tools, analyzing network traffic, and documenting vulnerability patterns.
 
 ---
 
